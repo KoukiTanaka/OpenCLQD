@@ -2,7 +2,7 @@
 OpenCL上でQDライブラリを利用するためのプログラムです。
 
 ## Description
-このプログラムは(https://www.davidhbailey.com/dhbsoftware/)にて公開されている4倍精度浮動小数点数(dd_real)と8倍精度浮動小数点数(qd_real)を扱うネイティブC++用のライブラリであるQDライブラリをOpenCLのカーネルコード内で利用することができるように、OpenCL C言語に移植したプログラムです。
+このプログラムは https://www.davidhbailey.com/dhbsoftware/　にて公開されている4倍精度浮動小数点数(dd_real)と8倍精度浮動小数点数(qd_real)を扱うネイティブC++用のライブラリであるQDライブラリをOpenCLのカーネルコード内で利用することができるように、OpenCL C言語に移植したプログラムです。
 
 ## Usage
 カーネルコード内でincludeをするだけで利用することができます。
